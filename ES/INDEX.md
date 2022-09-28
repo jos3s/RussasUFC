@@ -22,7 +22,7 @@ Educação Ambiental | 2 Semestre | Optativa |
 Relações Étnico-Raciais e Africanidades | 2 Semestre | Optativa |
 Língua Brasileira de Sinais | 2 Semestre | Optativa |
 Inglês Instrumental I | 2 Semestre | Obrigatória |
-Laboratório de Programação | 2 Semestre | Obrigatória | [Link](./03_semestre/poo.md)
+Laboratório de Programação | 2 Semestre | Obrigatória | [Link](./03_semestre/laboratorio.md)
 Estruturas de Dados | 2 Semestre | Obrigatória |
 Matemática Discreta | 2 Semestre | Obrigatória |
 Álgebra Linear | 2 Semestre | Optativa |
