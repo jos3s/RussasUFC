@@ -22,12 +22,12 @@ Educação Ambiental | 2 Semestre | Optativa |
 Relações Étnico-Raciais e Africanidades | 2 Semestre | Optativa |
 Língua Brasileira de Sinais | 2 Semestre | Optativa |
 Inglês Instrumental I | 2 Semestre | Obrigatória |
-Laboratório de Programação | 2 Semestre | Obrigatória | [Link](./02_semestre/laboratorio.md)
+Laboratório de Programação | 2 Semestre | Obrigatória | [Link](./03_semestre/poo.md)
 Estruturas de Dados | 2 Semestre | Obrigatória |
 Matemática Discreta | 2 Semestre | Obrigatória |
 Álgebra Linear | 2 Semestre | Optativa |
 Pré-Cálculo | 2 Semestre | Optativa |
-Arquiteturas de Computadores | 2 Semestre | Obrigatória |
+Arquiteturas de Computadores | 2 Semestre | Obrigatória | [Link](./02_semestre/arquitetura_computadores.md)
 
 ### 3 Semestre
 
@@ -35,7 +35,7 @@ Cadeira | Semestre | Tipo | Link
 :------ | :------: | :--: | :---:
 Requisitos de Software | 3 Semestre | Obrigatória |
 Inglês Instrumental II | 3 Semestre | Optativa |
-Programação Orientada a Objetos | 3 Semestre | Obrigatória |
+Programação Orientada a Objetos | 3 Semestre | Obrigatória | [Link](./0_semestre/laboratorio.md)
 Linguagens de Programação | 3 Semestre | Obrigatória |
 Algoritmos em Grafos | 3 Semestre | Obrigatória |
 Estruturas de Dados Avançadas | 3 Semestre | Optativa |
@@ -55,7 +55,7 @@ Fundamentos de Banco de Dados | 4 Semestre | Optativa |
 Desenvolvimento de Software para Web | 4 Semestre | Obrigatória |
 Linguagens Formais e Autômatos| 4 Semestre | Optativa |
 Projeto e Análise de Algoritmos | 4 Semestre | Obrigatória |
-Lógica para Computação | 4 Semestre | Obrigatória |
+Lógica para Computação | 4 Semestre | Obrigatória | [Link](./04_semestre/logica.md)
 Fundamentos da Economia e da Administração | 4 Semestre | Optativa |
 
 ### 5 Semestre
