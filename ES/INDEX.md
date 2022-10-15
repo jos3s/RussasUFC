@@ -22,7 +22,7 @@ Educação Ambiental | 2 Semestre | Optativa |
 Relações Étnico-Raciais e Africanidades | 2 Semestre | Optativa |
 Língua Brasileira de Sinais | 2 Semestre | Optativa |
 Inglês Instrumental I | 2 Semestre | Obrigatória |
-Laboratório de Programação | 2 Semestre | Obrigatória | [Link](./03_semestre/laboratorio.md)
+Laboratório de Programação | 2 Semestre | Obrigatória | [Link](./02_semestre/laboratorio.md)
 Estruturas de Dados | 2 Semestre | Obrigatória |
 Matemática Discreta | 2 Semestre | Obrigatória |
 Álgebra Linear | 2 Semestre | Optativa |
@@ -35,10 +35,10 @@ Cadeira | Semestre | Tipo | Link
 :------ | :------: | :--: | :---:
 Requisitos de Software | 3 Semestre | Obrigatória |
 Inglês Instrumental II | 3 Semestre | Optativa |
-Programação Orientada a Objetos | 3 Semestre | Obrigatória | [Link](./0_semestre/laboratorio.md)
+Programação Orientada a Objetos | 3 Semestre | Obrigatória | [Link](./03_semestre/poo.md)
 Linguagens de Programação | 3 Semestre | Obrigatória |
-Algoritmos em Grafos | 3 Semestre | Obrigatória |
-Estruturas de Dados Avançadas | 3 Semestre | Optativa |
+Algoritmos em Grafos | 3 Semestre | Obrigatória | [Link](./03_semestre/grafos.md)
+Estruturas de Dados Avançadas | 3 Semestre | Optativa | [Link](./03_semestre/eda.md)
 Matemática Computacional | 3 Semestre | Optativa |
 Probabilidade e Estatística | 3 Semestre | Obrigatória |
 Cálculo Diferencial e Integral I | 3 Semestre | Optativa |
@@ -51,10 +51,10 @@ Processos de Software | 4 Semestre | Obrigatória |
 Análise e Projeto de Sistemas | 4 Semestre | Obrigatória |
 Introdução ao Desenvolvimento de Jogos | 4 Semestre | Optativa |
 Desenvolvimento de Software para Dispositivos Móveis | 4 Semestre | Optativa |
-Fundamentos de Banco de Dados | 4 Semestre | Optativa |
-Desenvolvimento de Software para Web | 4 Semestre | Obrigatória |
+Fundamentos de Banco de Dados | 4 Semestre | Optativa | [Link](./04_semestre/bd.md)
+Desenvolvimento de Software para Web | 4 Semestre | Obrigatória | [Link](./05_semestre/web.md)
 Linguagens Formais e Autômatos| 4 Semestre | Optativa |
-Projeto e Análise de Algoritmos | 4 Semestre | Obrigatória |
+Projeto e Análise de Algoritmos | 4 Semestre | Obrigatória | [Link](./04_semestre/paa.md)
 Lógica para Computação | 4 Semestre | Obrigatória | [Link](./04_semestre/logica.md)
 Fundamentos da Economia e da Administração | 4 Semestre | Optativa |
 
@@ -71,8 +71,8 @@ Teoria da Computação | 5 Semestre | Optativa |
 Interação Humano-Computador | 5 Semestre | Obrigatória |
 Inteligência Artificial | 5 Semestre | Optativa |
 Especificação Formal de Software | 5 Semestre | Optativa |
-Sistemas Operacionais | 5 Semestre | Obrigatória |
-Redes de Computadores | 5 Semestre | Obrigatória |
+Sistemas Operacionais | 5 Semestre | Obrigatória | [Link](./05_semestre/so.md)
+Redes de Computadores | 5 Semestre | Obrigatória | [Link](./05_semestre/redes.md)
 
 ### 6 Semestre
 
