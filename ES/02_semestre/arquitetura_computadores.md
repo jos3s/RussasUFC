@@ -4,7 +4,7 @@
 
 Projeto | Linguagem | Autor(es) | Professor | Nota | Link
 :------ | :-------: | :-------: | :-------: | :--: | :---:
-Projeto ULA | - | José Ulisses | Alex Lima Silva | - | -
+Projeto ULA | - | José Ulisses e Luis Gustavo Girão | Alex Lima Silva | - | -
 
 Projeto | Linguagem | Autor(es) | Professor | Nota | Link
 :------ | :-------: | :-------: | :-------: | :--: | :---:
