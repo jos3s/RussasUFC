@@ -1,6 +1,6 @@
 # Arquitetura de Computadores
 
-## 2020.2
+## 2019.2
 
 Projeto | Linguagem | Autor(es) | Nota | Link
 :------ | :-------: | :-------:  | :--: | :---:

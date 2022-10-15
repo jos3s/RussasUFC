@@ -1,6 +1,6 @@
-# Arquitetura de Computadores
+# Lógica para Computação
 
-## 2021.2
+## 2020.2
 
 Projeto | Linguagem | Autor(es) | Nota | Link
 :------ | :-------: | :-------:  | :--: | :---:

@@ -1,6 +1,6 @@
-# Arquitetura de Computadores
+# Programação Orientada a Objetos
 
-## 2021.1
+## 2020.1
 
 Desenvolvimento de um projeto DESKTOP com a biblioteca SWING. Sistema deve permitir as operações de um CRUD simples.
 
